@@ -1,5 +1,5 @@
 # Cr4ckmd5
-Ini adalah Tools Decrytion Password Tipe Hash MD5
+Ini adalah Tools Decrypt Password Tipe Hash MD5
 
 Install ⬇️
 
